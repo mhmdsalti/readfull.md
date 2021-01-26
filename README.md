@@ -6,6 +6,6 @@
 
 ## i can see my future with you guys
 
-![love programming](itsme.jpg)
-
 [to read about gorwth mindest click here](https://mhmdsalti.github.io/readfull.md/read1)
+
+![love programming](itsme.jpg)
