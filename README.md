@@ -8,8 +8,8 @@
 
 ## Table of Contents
 
-1. [gorwth mindest](https://mhmdsalti.github.io/reading-notes1/read1)
-2. [git and git hub](https://mhmdsalti.github.io/reading-notes1/read2)
-3. [markdown language](https://mhmdsalti.github.io/reading-notes1/read3)
+1. [gorwth mindest]|(<https://mhmdsalti.github.io/reading-notes1/read1>)
+2. [git and git hub] | (<https://mhmdsalti.github.io/reading-notes1/read2>)
+3. [markdown language] | (<https://mhmdsalti.github.io/reading-notes1/read3>)
 
 ![love programming](itsme.jpg)
