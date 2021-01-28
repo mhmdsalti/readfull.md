@@ -13,5 +13,6 @@
 3. [markdown language] | (<https://mhmdsalti.github.io/reading-notes1/read3>)
 4. [HTML] | (<https://mhmdsalti.github.io/reading-notes1/read4>)
 5. [for the read on 01] | (<https://mhmdsalti.github.io/reading-notes1/read5>)
+6. [for the read on 05] | (<https://mhmdsalti.github.io/reading-notes1/loop>)
 
 ![love programming](itsme.jpg)
