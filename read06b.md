@@ -1,4 +1,4 @@
-# colors 
+# colors
 
 ## color can really bring you pages to life :)
 
