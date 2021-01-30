@@ -14,5 +14,7 @@
 4. [HTML] | (<https://mhmdsalti.github.io/reading-notes1/read4>)
 5. [for the read on 01] | (<https://mhmdsalti.github.io/reading-notes1/read5>)
 6. [for the read on 05] | (<https://mhmdsalti.github.io/reading-notes1/loop>)
+7. [read06a] | (<https://mhmdsalti.github.io/reading-notes1/read06a>)
+8. [read06b] | (<https://mhmdsalti.github.io/reading-notes1/read06b>)
 
 ![love programming](itsme.jpg)
