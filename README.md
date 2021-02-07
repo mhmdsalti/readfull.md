@@ -26,7 +26,7 @@
 ## Code 201 Reading Notes
 
 1. [class-01 reading]|(<https://mhmdsalti.github.io/reading-notes1/calss-01>)
-2. [read]|(<#>)
+2. [class-02 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-02>)
 3. [read]|(<#>)
 4. [read]|(<#>)
 5. [read]|(<#>)
