@@ -148,4 +148,3 @@
 ### truthy values are treated as if they are true. Almost everything that is not in the falsy table can be treated as if it were true . Truthy values can also be treated as the 1
 
 ### switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match)
-
