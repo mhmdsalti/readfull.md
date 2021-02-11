@@ -101,7 +101,7 @@
 5. CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
 6. CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
-## CHAPTER 12 TEXT 
+## CHAPTER 12 TEXT
 
 ## The properties that allow you to control the appearance of text can be split into two groups
 
@@ -146,5 +146,3 @@
 3. If you want to use a wider range of typefaces there are several options, but you need to have the right license to use them.
 4. You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 5. You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link
-
-
