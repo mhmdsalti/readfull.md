@@ -36,7 +36,7 @@
 9. [class-09 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-09>)
 10. [class-10 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-10>)
 11. [class-11 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-11>)
-12. [read]|(<#>)
+12. [class-12 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-12>)
 13. [read]|(<#>)
 14. [read]|(<#>)
 15. [read]|(<#>)
