@@ -104,4 +104,3 @@ example).
 ### It involves finding out how many items are in the Nodelist, and then setting a counter to loop through them, one-by-one
 
 ### Each time the loop runs, the script checks that the counter is less than the total number of items in the Nodelist
-
