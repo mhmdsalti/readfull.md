@@ -38,7 +38,7 @@
 11. [class-11 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-11>)
 12. [class-12 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-12>)
 13. [class-13 reading]|(<https://mhmdsalti.github.io/reading-notes1/class-13>)
-14. [read]|(<#>)
-15. [read]|(<#>)
+14. [class-14a reading]|(<https://mhmdsalti.github.io/reading-notes1/class-14a>)
+15. [class-14b reading]|(<https://mhmdsalti.github.io/reading-notes1/class-14b>)
 
 ![love programming](itsme.jpg)
